@@ -1,0 +1,54 @@
+/* Write your CSS here */
+* {
+  margin: 0em;
+}
+
+.activate-btn {
+  color: #ffffff;
+  background-color: #0b69ff;
+  border-width: 0;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+  margin: 5px;
+  height: 25px;
+  width: auto;
+  border-radius: 5px;
+  padding: auto;
+}
+.brake-btn {
+  color: #94a3b8;
+  border: 2px solid #94a3b8;
+  background-color: transparent;
+  margin: 5px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+  height: 25px;
+  width: auto;
+  border-radius: 5px;
+  padding: auto;
+}
+
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.speedometer-img {
+  height: auto;
+  width: 60%;
+  margin: 5px;
+}
+h1 {
+  color: #ffffff;
+}
+p {
+  margin: 10px;
+  color: #cbd5e1;
+}
